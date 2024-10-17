@@ -1,5 +1,3 @@
-# React + Vite
-
 # Fast-React-Pizza
 
 ## Very simple application, where useers can order one or more pizzas from a menu
